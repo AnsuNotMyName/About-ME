@@ -1,0 +1,162 @@
+body{
+    background-image:url("https://github.com/JaKooLit/Wallpaper-Bank/blob/main/wallpapers/Arch-chan_to.png?raw=true");
+    background-repeat:no-repeat ;
+    background-attachment:scroll ;
+    background-size: auto 150%;
+    font-family: 'Noto Sans', sans-serif;
+    background-position: top 10% bottom 90% left 10% right 100%;
+}
+
+main{
+    max-width: 420px;
+    margin: auto;
+}
+
+.box{
+    width: 300px;
+    height: 700px;
+
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.37);
+    padding: 50px;
+    border-radius: 60px;
+    margin: 20px;
+    position: relative;
+    border: 1px solid rgba(255,255,255,.5);
+
+}
+
+.title{
+    color: white;
+    font-size: 200%;
+    margin: 10px;
+    margin-bottom: 60px;
+}
+.img{
+    width: 90px;
+    padding-bottom: 20pxpx;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
+.fb{
+    background-color: white;
+    color: black;
+    height: 50px;
+    width: 200px;
+    border-radius: 60px;
+    position: fixed;
+    padding: 5px;
+    margin: 20px;
+    left: 70px;
+    top: 230px;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 25px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.fb:active{
+    transform: scale(0.90);
+}
+.fb:hover{
+    transform: scale(1.05);
+    color: white;
+    background: #8a2be2;
+    box-shadow: 0 0 10px #8a2be2, 0 0 40px #8a2be2, 0 0 80px #8a2be2;
+    transition-delay: 0.05s;
+}
+
+.ig{
+    background-color: white;
+    color: black;
+    height: 50px;
+    width: 200px;
+    border-radius: 60px;
+    position: fixed;
+    padding: 5px;
+    margin: 20px;
+    left: 70px;
+    top: 330px;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 25px;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+    transition: 0.2s;
+}
+.ig:active{
+    transform: scale(0.90);
+}
+.ig:hover{
+    transform: scale(1.05);
+    color: white;
+    background: #8a2be2;
+    box-shadow: 0 0 10px #8a2be2, 0 0 40px #8a2be2, 0 0 80px #8a2be2;
+    transition-delay: 0.05s;
+}
+
+.tt{
+    background-color: white;
+    color: black;
+    height: 50px;
+    width: 200px;
+    border-radius: 60px;
+    position: fixed;
+    padding: 5px;
+    margin: 20px;
+    left: 70px;
+    top: 430px;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 25px;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+    transition: 0.2s;
+}
+.tt:active{
+    transform: scale(0.90);
+}
+.tt:hover{
+    transform: scale(1.05);
+    color: white;
+    background: #8a2be2;
+    box-shadow: 0 0 10px #8a2be2, 0 0 40px #8a2be2, 0 0 80px #8a2be2;
+    transition-delay: 0.05s;
+}
+
+.dc{
+    background-color: white;
+    color: black;
+    height: 50px;
+    width: 200px;
+    border-radius: 60px;
+    position: fixed;
+    padding: 5px;
+    margin: 20px;
+    left: 70px;
+    top: 530px;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 25px;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+    transition: 0.2s;
+}
+.dc:active{
+    transform: scale(0.90);
+}
+.dc:hover{
+    transform: scale(1.05);
+    color: white;
+    background: #8a2be2;
+    box-shadow: 0 0 10px #8a2be2, 0 0 40px #8a2be2, 0 0 80px #8a2be2;
+    transition-delay: 0.05s;
+}
+
+@media screen and  {
+    
+}
